@@ -1,13 +1,11 @@
 # 🎓 Student Grade Management System
-
 ## CloudExify Python Internship 2026
-
 ### Month 1 - Project 2
 
 ## Student Information
 
-**Name:** Your Name\
-**Registration Number:** CX-2026-XXXX
+Name: Muhammad Anees
+Reg. NO: CX-INT-2026-PY-0303
 
 ## Project Description
 
